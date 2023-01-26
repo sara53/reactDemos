@@ -1,0 +1,15 @@
+.content {
+  background-color: rgb(82, 80, 80);
+  padding: 30px;
+}
+button {
+  display: block;
+  border: none;
+  padding: 10px;
+  background-color: orange;
+}
+
+img {
+  height: 300px;
+  object-fit: cover;
+}
