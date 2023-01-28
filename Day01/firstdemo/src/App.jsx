@@ -1,14 +1,14 @@
 import "./App.css";
-import { Content } from "./componets/content";
-import Footer from "./componets/footer";
 
-import { Header } from "./componets/header";
+import MyNav from "./componets/myNav";
+import MySlider from "./componets/mySlider";
+import Products from "./componets/products";
 export function App() {
   return (
     <div className="">
-      <Header></Header>
-      <Content />
-      <Footer />
+      <MyNav />
+      <MySlider />
+      <Products />
     </div>
   );
 }
