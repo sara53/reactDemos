@@ -1,0 +1,28 @@
+.movies {
+  background: #313142;
+}
+
+img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.addIcon {
+  font-size: 60px;
+  cursor: pointer;
+}
+.heartIcon {
+  cursor: pointer;
+}
+
+.addIcon:hover {
+  color: #727286;
+}
+
+.heartIcon {
+  color: red;
+}
+
+.formAdd {
+  background-color: #334a48;
+}
